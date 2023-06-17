@@ -1,0 +1,106 @@
+{
+  "posts": [
+    {
+      "menyu_description": "Italyan metbexi",
+      "menyu_title": "Pizza",
+      "image": "https://images6.alphacoders.com/130/thumbbig-1308388.webp",
+      "id": 6
+    },
+    {
+      "menyu_description": "Leziz dad",
+      "menyu_title": "Burger ",
+      "image": "https://images2.alphacoders.com/109/1094015.jpg",
+      "id": 7
+    },
+    {
+      "menyu_description": "Cin Lezzeti",
+      "menyu_title": "Sushi",
+      "image": "https://images2.alphacoders.com/280/thumbbig-280072.webp",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "food_name": "Pizza-Marqarita",
+      "food_cost": "10m",
+      "id": 1
+    },
+    {
+      "food_name": "Burger-naqets",
+      "food_cost": "6m",
+      "id": 2
+    },
+    {
+      "food_name": "Sushi",
+      "food_cost": "30m",
+      "id": 3
+    },
+    {
+      "food_name": "Burger",
+      "food_cost": "4m",
+      "id": 4
+    },
+    {
+      "food_name": "xas",
+      "food_cost": "1000m",
+      "id": 5
+    },
+    {
+      "food_name": "Ikra",
+      "food_cost": "50m",
+      "id": 6
+    },
+    {
+      "food_name": "Pizza-gobelek",
+      "food_cost": "15m",
+      "id": 7
+    },
+    {
+      "food_name": "Pizza_sade",
+      "food_cost": "5m",
+      "id": 8
+    },
+    {
+      "food_name": "Bozbas",
+      "food_cost": "2m",
+      "id": 9
+    },
+    {
+      "food_name": "Katlet corey",
+      "food_cost": "2m",
+      "id": 10
+    },
+    {
+      "food_name": "Kartoska free",
+      "food_cost": "3m",
+      "id": 11
+    },
+    {
+      "food_name": "su ",
+      "food_cost": "0.50m",
+      "id": 12
+    },
+    {
+      "food_name": "Americano",
+      "food_cost": "4m",
+      "id": 13
+    }
+  ],
+  "chef": [
+    {
+      "chef_admin_chefname": "Mursel",
+      "chef_admin_description": "kawjhdjhgd wjhdawhd wldhawjdhkaw dawld awdaw dlkaw dkawdh aw awd awhdj kahdaw daw jdhawkjda awd awkdhawkjd aw awd awdhawk jdadawkjd a dawkj ddawkj dawdd awd awd hawdhawkjd aw a kawd hkjdk ka dawwkjdhwadjk awd awdk a ",
+      "id": 1
+    },
+    {
+      "chef_admin_chefname": "Aqil",
+      "chef_admin_description": "hhkwajdawd   dawlkdjawd wdl awdlwa d d wd lawl dawlhdkjawdhw daw dlahdjawh daw dwald awjd wad awdaw daw dhawjkdhawdaw dwa dkw d awkdjawdjkawhdjkw d",
+      "id": 2
+    },
+    {
+      "chef_admin_chefname": "Tete",
+      "chef_admin_description": "wdbad nwlkdj lkjdwlk lklwk lkw lkdwn lknwldn lwndlknwkld lkwkndalknd wlknwalkd lk dwlk lknwlkd lkwndlka lkwndlka lkawndlk lkwnadknwa wlkndlka lkwkndlwk wlkdnwlk wlkdnkwln ",
+      "id": 3
+    }
+  ]
+}
